@@ -3,7 +3,7 @@ This repository contains codes and results for nuclei recognition challenge of K
 
 Link to the competition: https://www.kaggle.com/c/data-science-bowl-2018
 
-Link to my Kaggle page: https://www.kaggle.com/minjielu
+Link to the Kaggle notebook: https://www.kaggle.com/minjielu/spot-nuclei-traditional-solution
   
    At the beginning of the competition, I don't know about mask-rcnn. This traditional solution still gives me a score of 0.188 and top 19% rank.
    Given that images come in various forms, it definitely can't even see the neck of the score of 0.631 of the best Mask-rcnn model. After the
